@@ -1,0 +1,205 @@
+Provinsi,Tahun,Cluster_KMeans,Pilar,Nilai
+Aceh,2022,1,Ketersediaan,80.17
+Sumatera Utara,2022,1,Ketersediaan,80.19
+Sumatera Barat,2022,3,Ketersediaan,87.53
+Riau,2022,2,Ketersediaan,38.78
+Jambi,2022,3,Ketersediaan,58.48
+Sumatera Selatan,2022,1,Ketersediaan,81.57
+Bengkulu,2022,1,Ketersediaan,69.92
+Lampung,2022,3,Ketersediaan,94.94
+Kepulauan Bangka Belitung,2022,2,Ketersediaan,36.38
+Kepulauan Riau,2022,2,Ketersediaan,5.83
+DKI Jakarta,2022,2,Ketersediaan,0.0
+Jawa Barat,2022,3,Ketersediaan,84.59
+Jawa Tengah,2022,3,Ketersediaan,88.88
+DI Yogyakarta,2022,3,Ketersediaan,84.2
+Jawa Timur,2022,3,Ketersediaan,90.64
+Banten,2022,3,Ketersediaan,82.81
+Bali,2022,3,Ketersediaan,79.08
+Nusa Tenggara Barat,2022,3,Ketersediaan,92.85
+Nusa Tenggara Timur,2022,1,Ketersediaan,86.25
+Kalimantan Barat,2022,3,Ketersediaan,76.21
+Kalimantan Tengah,2022,2,Ketersediaan,49.87
+Kalimantan Selatan,2022,3,Ketersediaan,88.69
+Kalimantan Timur,2022,2,Ketersediaan,52.33
+Kalimantan Utara,2022,2,Ketersediaan,43.5
+Sulawesi Utara,2022,3,Ketersediaan,70.37
+Sulawesi Tengah,2022,3,Ketersediaan,77.98
+Sulawesi Selatan,2022,3,Ketersediaan,94.71
+Sulawesi Tenggara,2022,3,Ketersediaan,71.8
+Gorontalo,2022,3,Ketersediaan,94.25
+Sulawesi Barat,2022,3,Ketersediaan,76.11
+Maluku,2022,1,Ketersediaan,45.87
+Maluku Utara,2022,2,Ketersediaan,14.5
+Papua Barat,2022,4,Ketersediaan,11.81
+Papua,2022,4,Ketersediaan,17.68
+Aceh,2022,1,Keterjangkauan,69.34
+Sumatera Utara,2022,1,Keterjangkauan,75.02
+Sumatera Barat,2022,3,Keterjangkauan,84.23
+Riau,2022,2,Keterjangkauan,86.5
+Jambi,2022,3,Keterjangkauan,82.0
+Sumatera Selatan,2022,1,Keterjangkauan,74.11
+Bengkulu,2022,1,Keterjangkauan,75.18
+Lampung,2022,3,Keterjangkauan,79.62
+Kepulauan Bangka Belitung,2022,2,Keterjangkauan,92.47
+Kepulauan Riau,2022,2,Keterjangkauan,88.9
+DKI Jakarta,2022,2,Keterjangkauan,83.22
+Jawa Barat,2022,3,Keterjangkauan,79.11
+Jawa Tengah,2022,3,Keterjangkauan,81.47
+DI Yogyakarta,2022,3,Keterjangkauan,79.66
+Jawa Timur,2022,3,Keterjangkauan,79.42
+Banten,2022,3,Keterjangkauan,83.99
+Bali,2022,3,Keterjangkauan,94.0
+Nusa Tenggara Barat,2022,3,Keterjangkauan,76.24
+Nusa Tenggara Timur,2022,1,Keterjangkauan,62.16
+Kalimantan Barat,2022,3,Keterjangkauan,86.33
+Kalimantan Tengah,2022,2,Keterjangkauan,91.07
+Kalimantan Selatan,2022,3,Keterjangkauan,90.68
+Kalimantan Timur,2022,2,Keterjangkauan,90.27
+Kalimantan Utara,2022,2,Keterjangkauan,89.99
+Sulawesi Utara,2022,3,Keterjangkauan,81.42
+Sulawesi Tengah,2022,3,Keterjangkauan,80.39
+Sulawesi Selatan,2022,3,Keterjangkauan,83.52
+Sulawesi Tenggara,2022,3,Keterjangkauan,78.24
+Gorontalo,2022,3,Keterjangkauan,79.76
+Sulawesi Barat,2022,3,Keterjangkauan,83.45
+Maluku,2022,1,Keterjangkauan,68.57
+Maluku Utara,2022,2,Keterjangkauan,88.12
+Papua Barat,2022,4,Keterjangkauan,62.16
+Papua,2022,4,Keterjangkauan,62.16
+Aceh,2022,1,Pemanfaatan,66.25
+Sumatera Utara,2022,1,Pemanfaatan,64.44
+Sumatera Barat,2022,3,Pemanfaatan,71.84
+Riau,2022,2,Pemanfaatan,69.81
+Jambi,2022,3,Pemanfaatan,67.04
+Sumatera Selatan,2022,1,Pemanfaatan,61.29
+Bengkulu,2022,1,Pemanfaatan,61.53
+Lampung,2022,3,Pemanfaatan,67.72
+Kepulauan Bangka Belitung,2022,2,Pemanfaatan,77.54
+Kepulauan Riau,2022,2,Pemanfaatan,72.53
+DKI Jakarta,2022,2,Pemanfaatan,81.12
+Jawa Barat,2022,3,Pemanfaatan,73.71
+Jawa Tengah,2022,3,Pemanfaatan,80.69
+DI Yogyakarta,2022,3,Pemanfaatan,79.97
+Jawa Timur,2022,3,Pemanfaatan,74.27
+Banten,2022,3,Pemanfaatan,62.79
+Bali,2022,3,Pemanfaatan,82.08
+Nusa Tenggara Barat,2022,3,Pemanfaatan,67.81
+Nusa Tenggara Timur,2022,1,Pemanfaatan,60.55
+Kalimantan Barat,2022,3,Pemanfaatan,56.29
+Kalimantan Tengah,2022,2,Pemanfaatan,67.55
+Kalimantan Selatan,2022,3,Pemanfaatan,69.01
+Kalimantan Timur,2022,2,Pemanfaatan,79.43
+Kalimantan Utara,2022,2,Pemanfaatan,72.21
+Sulawesi Utara,2022,3,Pemanfaatan,71.42
+Sulawesi Tengah,2022,3,Pemanfaatan,70.88
+Sulawesi Selatan,2022,3,Pemanfaatan,71.22
+Sulawesi Tenggara,2022,3,Pemanfaatan,74.38
+Gorontalo,2022,3,Pemanfaatan,71.91
+Sulawesi Barat,2022,3,Pemanfaatan,65.42
+Maluku,2022,1,Pemanfaatan,62.27
+Maluku Utara,2022,2,Pemanfaatan,60.61
+Papua Barat,2022,4,Pemanfaatan,56.17
+Papua,2022,4,Pemanfaatan,47.88
+Aceh,2022,1,Ketersediaan_Normalize,0.844428
+Sumatera Utara,2022,1,Ketersediaan_Normalize,0.844639
+Sumatera Barat,2022,3,Ketersediaan_Normalize,0.921951
+Riau,2022,2,Ketersediaan_Normalize,0.408469
+Jambi,2022,3,Ketersediaan_Normalize,0.615968
+Sumatera Selatan,2022,1,Ketersediaan_Normalize,0.859174
+Bengkulu,2022,1,Ketersediaan_Normalize,0.736465
+Lampung,2022,3,Ketersediaan_Normalize,1.0
+Kepulauan Bangka Belitung,2022,2,Ketersediaan_Normalize,0.383189
+Kepulauan Riau,2022,2,Ketersediaan_Normalize,0.061407
+DKI Jakarta,2022,2,Ketersediaan_Normalize,0.0
+Jawa Barat,2022,3,Ketersediaan_Normalize,0.890984
+Jawa Tengah,2022,3,Ketersediaan_Normalize,0.93617
+DI Yogyakarta,2022,3,Ketersediaan_Normalize,0.886876
+Jawa Timur,2022,3,Ketersediaan_Normalize,0.954708
+Banten,2022,3,Ketersediaan_Normalize,0.872235
+Bali,2022,3,Ketersediaan_Normalize,0.832947
+Nusa Tenggara Barat,2022,3,Ketersediaan_Normalize,0.977986
+Nusa Tenggara Timur,2022,1,Ketersediaan_Normalize,0.908469
+Kalimantan Barat,2022,3,Ketersediaan_Normalize,0.802718
+Kalimantan Tengah,2022,2,Ketersediaan_Normalize,0.525279
+Kalimantan Selatan,2022,3,Ketersediaan_Normalize,0.934169
+Kalimantan Timur,2022,2,Ketersediaan_Normalize,0.55119
+Kalimantan Utara,2022,2,Ketersediaan_Normalize,0.458184
+Sulawesi Utara,2022,3,Ketersediaan_Normalize,0.741205
+Sulawesi Tengah,2022,3,Ketersediaan_Normalize,0.821361
+Sulawesi Selatan,2022,3,Ketersediaan_Normalize,0.997577
+Sulawesi Tenggara,2022,3,Ketersediaan_Normalize,0.756267
+Gorontalo,2022,3,Ketersediaan_Normalize,0.992732
+Sulawesi Barat,2022,3,Ketersediaan_Normalize,0.801664
+Maluku,2022,1,Ketersediaan_Normalize,0.483147
+Maluku Utara,2022,2,Ketersediaan_Normalize,0.152728
+Papua Barat,2022,4,Ketersediaan_Normalize,0.124394
+Papua,2022,4,Ketersediaan_Normalize,0.186223
+Aceh,2022,1,Keterjangkauan_Normalize,0.225411
+Sumatera Utara,2022,1,Keterjangkauan_Normalize,0.403824
+Sumatera Barat,2022,3,Keterjangkauan_Normalize,0.693117
+Riau,2022,2,Keterjangkauan_Normalize,0.764419
+Jambi,2022,3,Keterjangkauan_Normalize,0.623071
+Sumatera Selatan,2022,1,Keterjangkauan_Normalize,0.37524
+Bengkulu,2022,1,Keterjangkauan_Normalize,0.40885
+Lampung,2022,3,Keterjangkauan_Normalize,0.548314
+Kepulauan Bangka Belitung,2022,2,Keterjangkauan_Normalize,0.951942
+Kepulauan Riau,2022,2,Keterjangkauan_Normalize,0.839805
+DKI Jakarta,2022,2,Keterjangkauan_Normalize,0.661392
+Jawa Barat,2022,3,Keterjangkauan_Normalize,0.532294
+Jawa Tengah,2022,3,Keterjangkauan_Normalize,0.606423
+DI Yogyakarta,2022,3,Keterjangkauan_Normalize,0.54957
+Jawa Timur,2022,3,Keterjangkauan_Normalize,0.542031
+Banten,2022,3,Keterjangkauan_Normalize,0.685579
+Bali,2022,3,Keterjangkauan_Normalize,1.0
+Nusa Tenggara Barat,2022,3,Keterjangkauan_Normalize,0.442145
+Nusa Tenggara Timur,2022,1,Keterjangkauan_Normalize,0.0
+Kalimantan Barat,2022,3,Keterjangkauan_Normalize,0.75908
+Kalimantan Tengah,2022,2,Keterjangkauan_Normalize,0.907967
+Kalimantan Selatan,2022,3,Keterjangkauan_Normalize,0.895716
+Kalimantan Timur,2022,2,Keterjangkauan_Normalize,0.882838
+Kalimantan Utara,2022,2,Keterjangkauan_Normalize,0.874043
+Sulawesi Utara,2022,3,Keterjangkauan_Normalize,0.604853
+Sulawesi Tengah,2022,3,Keterjangkauan_Normalize,0.5725
+Sulawesi Selatan,2022,3,Keterjangkauan_Normalize,0.670816
+Sulawesi Tenggara,2022,3,Keterjangkauan_Normalize,0.504967
+Gorontalo,2022,3,Keterjangkauan_Normalize,0.552711
+Sulawesi Barat,2022,3,Keterjangkauan_Normalize,0.668617
+Maluku,2022,1,Keterjangkauan_Normalize,0.201225
+Maluku Utara,2022,2,Keterjangkauan_Normalize,0.815305
+Papua Barat,2022,4,Keterjangkauan_Normalize,0.0
+Papua,2022,4,Keterjangkauan_Normalize,0.0
+Aceh,2022,1,Pemanfaatan_Normalize,0.537084
+Sumatera Utara,2022,1,Pemanfaatan_Normalize,0.484154
+Sumatera Barat,2022,3,Pemanfaatan_Normalize,0.700552
+Riau,2022,2,Pemanfaatan_Normalize,0.641189
+Jambi,2022,3,Pemanfaatan_Normalize,0.560186
+Sumatera Selatan,2022,1,Pemanfaatan_Normalize,0.392039
+Bengkulu,2022,1,Pemanfaatan_Normalize,0.399057
+Lampung,2022,3,Pemanfaatan_Normalize,0.580071
+Kepulauan Bangka Belitung,2022,2,Pemanfaatan_Normalize,0.867237
+Kepulauan Riau,2022,2,Pemanfaatan_Normalize,0.72073
+DKI Jakarta,2022,2,Pemanfaatan_Normalize,0.971927
+Jawa Barat,2022,3,Pemanfaatan_Normalize,0.755236
+Jawa Tengah,2022,3,Pemanfaatan_Normalize,0.959352
+DI Yogyakarta,2022,3,Pemanfaatan_Normalize,0.938297
+Jawa Timur,2022,3,Pemanfaatan_Normalize,0.771612
+Banten,2022,3,Pemanfaatan_Normalize,0.435903
+Bali,2022,3,Pemanfaatan_Normalize,1.0
+Nusa Tenggara Barat,2022,3,Pemanfaatan_Normalize,0.582703
+Nusa Tenggara Timur,2022,1,Pemanfaatan_Normalize,0.370399
+Kalimantan Barat,2022,3,Pemanfaatan_Normalize,0.245824
+Kalimantan Tengah,2022,2,Pemanfaatan_Normalize,0.5751
+Kalimantan Selatan,2022,3,Pemanfaatan_Normalize,0.617794
+Kalimantan Timur,2022,2,Pemanfaatan_Normalize,0.922506
+Kalimantan Utara,2022,2,Pemanfaatan_Normalize,0.711372
+Sulawesi Utara,2022,3,Pemanfaatan_Normalize,0.68827
+Sulawesi Tengah,2022,3,Pemanfaatan_Normalize,0.672479
+Sulawesi Selatan,2022,3,Pemanfaatan_Normalize,0.682421
+Sulawesi Tenggara,2022,3,Pemanfaatan_Normalize,0.774829
+Gorontalo,2022,3,Pemanfaatan_Normalize,0.702599
+Sulawesi Barat,2022,3,Pemanfaatan_Normalize,0.512812
+Maluku,2022,1,Pemanfaatan_Normalize,0.420697
+Maluku Utara,2022,2,Pemanfaatan_Normalize,0.372153
+Papua Barat,2022,4,Pemanfaatan_Normalize,0.242315
+Papua,2022,4,Pemanfaatan_Normalize,0.0
