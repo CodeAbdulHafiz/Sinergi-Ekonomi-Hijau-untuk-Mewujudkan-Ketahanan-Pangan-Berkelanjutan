@@ -283,12 +283,3 @@ Melalui pendekatan berbasis **Data Science**, proyek ini berhasil mengidentifika
 ---
 
 **Terima Kasih!** 🚀  
-
---- 
-)  
-
----
-
-**Terima Kasih!** 🚀  
-
---- 
