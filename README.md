@@ -40,7 +40,7 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
    - **Files**:  
       - `ClusterData.csv`  
       - `ForecastData.csv`  
-      - **Additional datasets**  
+      - **dan lainnya**  
 
 3. **[PRESENTATION DECK](https://github.com/CodeAbdulHafiz/Sinergi-Ekonomi-Hijau-untuk-Mewujudkan-Ketahanan-Pangan-Berkelanjutan/tree/main/PRESENTATION%20DECK)**  
    - Ringkasan visual proyek, metode, dan hasil analisis.  
@@ -58,7 +58,8 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
    - **Files**:  
       - `K-MEANS_ClusterPlot.png`  
       - `DynamicFactor_Timeseries_Affordability.png`  
-      - `Decomposition_Quality and Safety.png`  
+      - `Decomposition_Quality and Safety.png`
+      - **dan lainnya**  
 
 ---
 
