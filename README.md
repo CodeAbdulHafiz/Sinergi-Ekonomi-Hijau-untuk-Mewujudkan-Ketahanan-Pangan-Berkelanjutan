@@ -2,7 +2,7 @@
 **Greener Future with Data-Driven Solutions**  
 
 *Created by Team B-RAVO*
-Proyek ini bertujuan untuk menganalisis ketahanan pangan Indonesia melalui pendekatan **ekonomi hijau** berbasis **Data Science**. Dengan mengevaluasi indikator ketersediaan, keterjangkauan, pemanfaatan, dan keberlanjutan pangan, kami memberikan rekomendasi strategis untuk mendukung kebijakan berkelanjutan.
+<br>Proyek ini bertujuan untuk menganalisis ketahanan pangan Indonesia melalui pendekatan **ekonomi hijau** berbasis **Data Science**. Dengan mengevaluasi indikator ketersediaan, keterjangkauan, pemanfaatan, dan keberlanjutan pangan, kami memberikan rekomendasi strategis untuk mendukung kebijakan berkelanjutan.
 
 ---
 
