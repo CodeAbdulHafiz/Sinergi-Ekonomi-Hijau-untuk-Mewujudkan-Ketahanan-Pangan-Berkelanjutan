@@ -33,15 +33,14 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
    - Visualisasi interaktif melalui Tableau dan workbook.  
    - **Files**:  
       - `Preview_Sinergi Ekonomi Hijau`  
-      - `Workbook_Sinergi Ekonomi Hijau`
-      - **dan lainnya**
+      - `Workbook_Sinergi Ekonomi Hijau`  
 
 2. **[DATASET](https://github.com/CodeAbdulHafiz/Sinergi-Ekonomi-Hijau-untuk-Mewujudkan-Ketahanan-Pangan-Berkelanjutan/tree/main/DATASET)**  
    - Data ketahanan pangan yang dianalisis dari **BPS**, **OECD**, **FAO**, dan sumber resmi lainnya.  
    - **Files**:  
       - `ClusterData.csv`  
       - `ForecastData.csv`  
-      - **dan lainnya**  
+      - **Additional datasets**  
 
 3. **[PRESENTATION DECK](https://github.com/CodeAbdulHafiz/Sinergi-Ekonomi-Hijau-untuk-Mewujudkan-Ketahanan-Pangan-Berkelanjutan/tree/main/PRESENTATION%20DECK)**  
    - Ringkasan visual proyek, metode, dan hasil analisis.  
@@ -59,8 +58,7 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
    - **Files**:  
       - `K-MEANS_ClusterPlot.png`  
       - `DynamicFactor_Timeseries_Affordability.png`  
-      - `Decomposition_Quality and Safety.png`
-      - **dan lainnya**  
+      - `Decomposition_Quality and Safety.png`  
 
 ---
 
@@ -142,7 +140,7 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
 ## **Kesimpulan**  
 Melalui pendekatan berbasis **Data Science**, proyek ini berhasil mengidentifikasi tantangan ketahanan pangan di Indonesia dan merumuskan solusi yang inovatif dan berkelanjutan. Sinergi antara **teknologi modern** dan **kebijakan ekonomi hijau** adalah kunci untuk mewujudkan ketahanan pangan berkelanjutan di masa depan.  
 
-**Dashboard Interaktif**: [Klik di sini](https://public.tableau.com/views/FinalProject_TeamB-RAVO/Dashboard4)  
+**Dashboard Interaktif**: [Klik di sini]([https://public.tableau.com/views/FinalProject_TeamB-RAVO/Dashboard4](https://public.tableau.com/views/FinalProject_TeamB-RAVO/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
 ---
 
