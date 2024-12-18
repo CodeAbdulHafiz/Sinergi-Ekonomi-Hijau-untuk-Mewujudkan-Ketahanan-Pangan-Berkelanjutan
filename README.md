@@ -281,7 +281,7 @@ Melalui pendekatan berbasis **Data Science**, proyek ini menghasilkan solusi ber
 ## **Kesimpulan**  
 Melalui pendekatan berbasis **Data Science**, proyek ini berhasil mengidentifikasi tantangan ketahanan pangan di Indonesia dan merumuskan solusi yang inovatif dan berkelanjutan. Sinergi antara **teknologi modern** dan **kebijakan ekonomi hijau** adalah kunci untuk mewujudkan ketahanan pangan berkelanjutan di masa depan.  
 
-**Dashboard Interaktif**: [Klik di sini](https://public.tableau.com/views/FinalProject_TeamB-RAVO/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+**Dashboard Interaktif**: [Klik di sini](https://bit.ly/BRAVO_Dashboard)  
 
 ---
 
