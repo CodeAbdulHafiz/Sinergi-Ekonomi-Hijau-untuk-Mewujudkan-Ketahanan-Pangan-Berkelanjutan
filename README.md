@@ -1,5 +1,3 @@
----
-
 # **Sinergi Ekonomi Hijau untuk Mewujudkan Ketahanan Pangan Berkelanjutan**  
 **Greener Future with Data-Driven Solutions**  
 Proyek ini bertujuan untuk menganalisis ketahanan pangan Indonesia melalui pendekatan **ekonomi hijau** berbasis **Data Science**. Dengan mengevaluasi indikator ketersediaan, keterjangkauan, pemanfaatan, dan keberlanjutan pangan, kami memberikan rekomendasi strategis untuk mendukung kebijakan berkelanjutan.
