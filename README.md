@@ -1,5 +1,3 @@
-Berikut adalah gabungan dari **README.md** yang menarik, menggabungkan detail tambahan dari permintaan sebelumnya dengan konten baru yang telah kamu berikan:
-
 ---
 
 # **Sinergi Ekonomi Hijau untuk Mewujudkan Ketahanan Pangan Berkelanjutan**  
@@ -151,5 +149,3 @@ Melalui pendekatan berbasis **Data Science**, proyek ini berhasil mengidentifika
 **Terima Kasih!** 🚀  
 
 --- 
-
-Jika ada tambahan atau modifikasi lainnya, beri tahu saya ya! 😊
